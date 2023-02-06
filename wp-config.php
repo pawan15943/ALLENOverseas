@@ -19,7 +19,7 @@
  */
 
 // ** Database settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
+/** The name of the database for WordPress Pawan Rathore */
 define( 'DB_NAME', 'allenoverseas' );
 define( 'WPCF7_AUTOP', false );
 
